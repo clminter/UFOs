@@ -25,4 +25,7 @@ The filters can be reset by refreshing the page.
 
 ### Summary
 
-A significant drawback to the design of this page is due to the fact that the data set is very limited in scope and the filtering system is capable of handling a much larger data set.  For instance, there is only one year considered and there is not necessarily an event occuring on each day of the year.  This makes using the date filter a hit and miss operation.  The same can be said in varying degrees for the other catagories also. 
+A significant drawback to the design of this page is due to the fact that the data set is very limited in scope and the filtering system is capable of handling a much larger data set.  For instance, there is only one year considered and there is not necessarily an event occuring on each day of the year.  This makes using the date filter a hit and miss operation.  The same can be said in varying degrees for the other catagories also.  In the example below a date of 5/12/2010 was input.  There is no event for this date.  The user would find this to be very frustrating.
+
+![image](https://user-images.githubusercontent.com/81878169/126088313-54187006-b575-4a0e-8fb4-feeddbdc554f.png)
+
