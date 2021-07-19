@@ -17,6 +17,12 @@ The user inputs data into any or all of the filters to narrow down their search 
 
 ![image](https://user-images.githubusercontent.com/81878169/126087725-d4894c30-9a15-4ed0-9d27-94c926e8b427.png)
 
+In the following example, 'Triangle' was entered for the shape and CA was entered for the state.
 
+![image](https://user-images.githubusercontent.com/81878169/126087865-4e06abce-9d1b-45b0-a0fd-77b165620ec6.png)
+
+The filters can be reset by refreshing the page.
 
 ### Summary
+
+A significant drawback to the design of this page is due to the fact that the data set is very limited in scope and the filtering system is capable of handling a much larger data set.  For instance, there is only one year considered and there is not necessarily an event occuring on each day of the year.  This makes using the date filter a hit and miss operation.  The same can be said in varying degrees for the other catagories also. 
