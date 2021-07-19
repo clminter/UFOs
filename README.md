@@ -29,3 +29,13 @@ A significant drawback to the design of this page is due to the fact that the da
 
 ![image](https://user-images.githubusercontent.com/81878169/126088313-54187006-b575-4a0e-8fb4-feeddbdc554f.png)
 
+#### Recommendations
+  1.  Since the dates that have events are limited, a suggestion might be to create a drop-down calender menu that highlights dates that have events. The following is a good example from the recreation.gov website:
+
+![image](https://user-images.githubusercontent.com/81878169/126088561-6a520577-6c0a-4d1e-89ed-19d7ac5aae9a.png)
+
+
+
+  2. All cities, states and countries are also not represented in the data set.  A solution to searching for locations can be greatly simplified by using an interactive map showing locations of each event.  The following is a good example, also from the recreation.gov website:
+
+![image](https://user-images.githubusercontent.com/81878169/126088482-a8e05816-08a4-43d7-b43f-0b5d34fa584a.png)
